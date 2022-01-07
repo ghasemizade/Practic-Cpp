@@ -15,7 +15,7 @@ int main() {
 	cin >> num2;
 	
 //	Definition of condition
-	for (int i = num1; i < num2; i++)
+	for (int i = num1; i <= num2; i++)
 	{
 		if (i % 2 == 1)
 		{	
